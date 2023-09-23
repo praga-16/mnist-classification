@@ -26,7 +26,11 @@ Build a CNN model
 Compile and fit the model and then predict
 
 ## Program
-```python
+```
+NAME : Pragatheesvaran AB
+REGISTER NO : 212221240039
+````
+````python
 import tensorflow as tf
 from tensorflow.keras.models import Sequential
 from tensorflow.keras.layers import Conv2D
